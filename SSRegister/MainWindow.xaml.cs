@@ -17,6 +17,7 @@ namespace SSRegister
     /// </summary>
     public partial class MainWindow : Window
     {
+        //TEST
         public Funktionær Funktionær;
         public Timelønnet Timelønnet;
         public Stack<UIElement> pageHistory = new Stack<UIElement>();
